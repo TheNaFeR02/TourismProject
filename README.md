@@ -1,1 +1,1 @@
-# TourismProject
+# tourism-app
